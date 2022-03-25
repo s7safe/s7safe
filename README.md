@@ -1,9 +1,9 @@
-### Hi there 👋
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=s7safe)](https://github.com/anuraghazra/github-readme-stats)
+Here are some ideas to get you started:
 
 <!--
 **s7safe/s7safe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=s7safe)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
