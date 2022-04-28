@@ -3,7 +3,6 @@
 
 Welcome to my Github page! I am 天钧 欢迎关注我的公众号；渗透云笔记!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 我的小目标: 
