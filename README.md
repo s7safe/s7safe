@@ -1,7 +1,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/s7safe)
 
-Welcome to my Github page! 
+还原面试官来到我的博客，话说我简历应该不会写我的GIHUB，没准呢？感谢阅读，您真是个负责任的好人。
 
 
 #### 🌱 我的小目标: 
