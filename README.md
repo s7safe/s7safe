@@ -21,7 +21,7 @@ x 想当个全职漏洞猎人但是还在努力毕竟是太菜了(尝试了，�
  
  √ 挖点Hackerone (挖洞？挖什么洞 刚当几个月第一 就让老外打到第三了 玩毛线球子)
 
- ![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+ ![](https://github-readme-activity-graph.cyclic.app/graph?username=s7safe&theme=dracula)
 
 
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
