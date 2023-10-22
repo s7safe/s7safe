@@ -20,6 +20,7 @@ x 想当个全职漏洞猎人但是还在努力毕竟是太菜了(尝试了，�
  √ 阳过
  
  √ 挖点Hackerone (挖洞？挖什么洞 刚当几个月第一 就让老外打到第三了 玩毛线球子)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s7safe)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ![](https://github-readme-activity-graph.cyclic.app/graph?username=s7safe&theme=dracula)
 
