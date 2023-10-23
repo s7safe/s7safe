@@ -1,5 +1,6 @@
 <h2> 卧槽，这居然是我的GITHUB <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7safe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -22,7 +23,7 @@ HackerOne:https://hackerone.com/ryanmoles6?type=user
 
 我H1好歹也挖了一点洞，非得说别人牛逼？你说我牛逼，我把0day给你
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7safe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
 
 </br>
 
