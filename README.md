@@ -21,9 +21,8 @@ HackerOne:https://hackerone.com/ryanmoles6?type=user
 我H1好歹也挖了一点洞，非得说别人牛逼？你说我牛逼，我把0day给你
 
 
+
+
 ![Visitor Count](https://profile-counter.glitch.me/s7safe/count.svg)
 
-
 </br>
-
-![Metrics](https://metrics.lecoq.io/s7safe?template=terminal&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai)
