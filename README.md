@@ -19,10 +19,3 @@
 HackerOne:https://hackerone.com/ryanmoles6?type=user
 
 
-
-
-主页访问次数统计
-
-![Visitor Count](https://profile-counter.glitch.me/s7safe/count.svg)
-
-</br>
