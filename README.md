@@ -1,36 +1,30 @@
-<h2> 来自中国的野生安全研究员 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+# About Me
 
-<h3> 👨🏻‍💻 About Me </h3>
+👋 Hi, I'm a passionate independent security researcher and AI tools developer!
 
-- 🎓 &nbsp; 想当个赏金猎人，虽有成效，死于打款太慢。差点饿死，兄弟们。
-- 💼 &nbsp; 研究红蓝攻防，希望能够挖出不一样的漏洞。
-- 🌱 &nbsp; 手里没钱，兜里全是债务，麻烦来个大哥捞一把。
-- ✍️ &nbsp; 我在上海混日子。
-- ☕ &nbsp; 上海好卷，我差点没饿死在上海，感觉我不是在饿死的路上就是在饿死的途中，好像是个废话
+I specialize in exploring vulnerabilities and developing innovative AI tools that enhance security protocols. My goal is to make the digital world a safer place for everyone.
 
-<h3>🛠 Tech Stack</h3>
+# Tech Stack
 
-- 💻 &nbsp; 渗透测试，红蓝对抗
-- 🌐 &nbsp; Android | Web | HTML | CSS | JavaScript 
-- 🛢 &nbsp; 溯源别找我，不Hvv很多年（价钱太低，强度太大，我才不去）。
+🔧 **Languages:** Python, Java, JavaScript  
+🔒 **Frameworks:** Flask, Django, TensorFlow  
+🔗 **Tools:** Kali Linux, Metasploit, Burp Suite  
 
-<br>
+# Projects
 
-HackerOne:https://hackerone.com/ryanmoles6?type=user
+💻 **Security Tools:**  
+- [Vulnerability Scanner](https://github.com/s7safe/vuln-scanner) - A tool for scanning web applications for vulnerabilities.  
+- [AI-Powered Penetration Testing Tool](https://github.com/s7safe/ai-penetration-testing) - Leverages AI to improve penetration testing efficiency.
 
-正在做的事情：
+# Contact Information
 
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+🔗 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)  
 
-1、✅   api 安全扫描器 「半成品+未授权命中提高+api 字典自动采集」
+![GitHub followers](https://img.shields.io/github/followers/s7safe?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/s7safe/s7safe?style=social)  
+![GitHub license](https://img.shields.io/github/license/s7safe/s7safe)  
 
+---  
 
-2、✅   网站业务数据包梳理脚本 「通过风控对抗，强行批量梳理大量网站是否有容易出漏洞的业务或未加密流量包」
-
-
-3、✅  安全测试大模型「优化了 8B 的一个 deepssk+Qwen 强推理模型。目前部署在我的内网+具备基本渗透测试能力+逻辑漏洞能力欠缺+但是会给出预测与最大程度的成果，练手作品8B 也就这意思了」
-
-3.1、✅  APP安全扫描器 已完成
-
-4、正在进行32 B 模型优化 多专家模式 嵌入安全测试工具进行协同：4.1 ai 存在幻觉 挖出来的高危漏洞 是漏洞但不符合提交标准。扫描 300 个 粗略计算 几千漏洞 符合提交标准只有四个 这四个还都被我人工忽略，还需要继续训练 以好的专家级数据集 优化思维链 才能小幅度减少相关幻觉。
-
-5、ok 啊兄弟们 又干废了一个模型 从脑神经切片 把大模型切成神经病和无限循环了 兄弟们
+Thank you for reading! Feel free to reach out if you'd like to collaborate or just chat!
