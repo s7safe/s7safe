@@ -1,30 +1,33 @@
-# About Me
+# Typing SVG Animation  
 
-👋 Hi, I'm a passionate independent security researcher and AI tools developer!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=1F2937&background=FFFFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I+am+an+enthusiastic+developer)  
 
-I specialize in exploring vulnerabilities and developing innovative AI tools that enhance security protocols. My goal is to make the digital world a safer place for everyone.
+## 关于我  
+> “代码是我工具，创意是我的艺术。”  
 
-# Tech Stack
+## 我的技术栈  
+- **编程语言**: JavaScript, Python, Java  
+- **前端**: React, Vue, HTML/CSS  
+- **后端**: Node.js, Express  
+- **数据库**: MongoDB, MySQL  
 
-🔧 **Languages:** Python, Java, JavaScript  
-🔒 **Frameworks:** Flask, Django, TensorFlow  
-🔗 **Tools:** Kali Linux, Metasploit, Burp Suite  
+## 项目  
+| 项目名称 | 描述 | 状态 |  
+| -------- | ------------ | ---- |  
+| 项目1 | 一个优秀的web应用 | 完成 |  
+| 项目2 | 引人注目的移动应用 | 进行中 |  
+| 项目3 | 令人兴奋的AI项目 | 拟议 |  
 
-# Projects
+## 工作模式  
+- 远程  
+- 混合办公  
 
-💻 **Security Tools:**  
-- [Vulnerability Scanner](https://github.com/s7safe/vuln-scanner) - A tool for scanning web applications for vulnerabilities.  
-- [AI-Powered Penetration Testing Tool](https://github.com/s7safe/ai-penetration-testing) - Leverages AI to improve penetration testing efficiency.
+## GitHub 数据  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s7safe&show_icons=true&theme=radical)  
 
-# Contact Information
+## 联系我  
+- 邮箱: s7safe@example.com  
+- LinkedIn: [linkedin.com/in/s7safe](https://www.linkedin.com/in/s7safe)  
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)  
-
-![GitHub followers](https://img.shields.io/github/followers/s7safe?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/s7safe/s7safe?style=social)  
-![GitHub license](https://img.shields.io/github/license/s7safe/s7safe)  
-
----  
-
-Thank you for reading! Feel free to reach out if you'd like to collaborate or just chat!
+## 感谢您的访问  
+感谢您的关注！期待与您共同探索技术的奥秘和创造力！
